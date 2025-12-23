@@ -1,9 +1,4 @@
-Here’s a **short, partner-aligned, website-consistent version** of your GitHub public document.
-It keeps the **same structure**, removes extra explanation, and reads cleanly for **partners and builders**.
 
-You can replace the file **as-is**.
-
----
 
 # 9Ethics — Ethical SaaS Product Studio
 
