@@ -1,6 +1,6 @@
 
 
-# 9Ethics — Ethical SaaS Product Studio
+# 9Ethics - Ethical SaaS Product Studio
 
 **Ethical SaaS. Practical tools. Built for real teams.**
 
@@ -13,7 +13,7 @@ We build around a simple belief:
 
 ## 🌟 Mission
 
-Build **useful, trustworthy SaaS products** that respect users’ time and decisions — and continue to work well as teams grow.
+Build **useful, trustworthy SaaS products** that respect users’ time and decisions - and continue to work well as teams grow.
 
 ---
 
