@@ -26,6 +26,7 @@ Build **useful, trustworthy SaaS products** that respect users’ time and decis
 | **Picnie**      | Visual consistency tools for small teams and creators.                          | ✅ Live | [https://picnie.com](https://picnie.com)           |
 | **Peekshot**    | Simple, fast product screenshots for clear communication.                       | ✅ Live | [https://peekshot.com](https://peekshot.com)       |
 | **BetterAEO**   | Optimization for AI-first search and answer engines.                            | ✅ Live | [https://betteraeo.com](https://betteraeo.com)     |
+| **StatusMonk**  | Simple uptime monitoring for critical services and small teams.                 | ✅ Live | [https://statusmonk.com](https://statusmonk.com)   |
 
 ---
 
@@ -33,7 +34,6 @@ Build **useful, trustworthy SaaS products** that respect users’ time and decis
 
 | Product        | What it’s for                                                                  | Status            |
 | -------------- | ------------------------------------------------------------------------------ | ----------------- |
-| **StatusMonk** | Simple uptime monitoring for critical services and small teams.                | 🟡 In development |
 | **9to**        | Smart routing and short links designed as infrastructure, not marketing tools. | 🟡 In development |
 
 
